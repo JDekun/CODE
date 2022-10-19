@@ -1,2 +1,15 @@
 TensorBoarrd/data/
 TensorBoarrd/runs/
+
+
+## Dive-into-DL-PyTorch
+
+Dive-into-DL-PyTorch/*.DS_Store
+Dive-into-DL-PyTorch/*.pyc
+Dive-into-DL-PyTorch/*checkpoint.ipynb
+Dive-into-DL-PyTorch/.mypy_cache*
+Dive-into-DL-PyTorch/.vscode*
+# 皮卡丘数据集太大了
+Dive-into-DL-PyTorch/data/pikachu*
+# Pascal VOC2012数据集, 约2G
+Dive-into-DL-PyTorch/data/VOCdevkit*
